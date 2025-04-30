@@ -42,11 +42,13 @@ ________________________________________________________________________________
 
 Prints da aplicação: 
 
-![alt text](image-1.png)
+![image-1](https://github.com/user-attachments/assets/5dba1978-7a49-4302-a442-1ea9c622b02b)
 
-![alt text](image-2.png)
+![image-2](https://github.com/user-attachments/assets/b54faea4-0967-49d2-8216-39293f9fbe7c)
+
 
 Print do banco de dados:
 
-![alt text](image-3.png)
+![image-3](https://github.com/user-attachments/assets/2ebaf7a3-4e7a-4804-9dfd-5d9b43f15174)
+
 
